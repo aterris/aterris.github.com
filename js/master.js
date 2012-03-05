@@ -1,6 +1,6 @@
 (function() {
   $(document).ready(function() {
-    return $("h1").fitText(0.65, {
+    return $("h1").fitText(1, {
       maxFontSize: '225px'
     });
   });
